@@ -1,0 +1,9 @@
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_DataLayer\bin\Debug\KhaiBaoYTe_DataLayer.dll
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_DataLayer\bin\Debug\KhaiBaoYTe_DataLayer.pdb
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_DataLayer\bin\Debug\KhaiBaoYTe_Entities.dll
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_DataLayer\bin\Debug\KhaiBaoYTe_Entities.pdb
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_DataLayer\obj\Debug\KhaiBaoYTe_DataLayer.csprojAssemblyReference.cache
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_DataLayer\obj\Debug\KhaiBaoYTe_DataLayer.csproj.CoreCompileInputs.cache
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_DataLayer\obj\Debug\KhaiBaoYTe_DataLayer.csproj.CopyComplete
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_DataLayer\obj\Debug\KhaiBaoYTe_DataLayer.dll
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_DataLayer\obj\Debug\KhaiBaoYTe_DataLayer.pdb

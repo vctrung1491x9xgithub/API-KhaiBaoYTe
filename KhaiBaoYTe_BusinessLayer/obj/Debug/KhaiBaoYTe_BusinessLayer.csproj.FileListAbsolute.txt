@@ -1,0 +1,11 @@
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\bin\Debug\KhaiBaoYTe_BusinessLayer.dll
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\bin\Debug\KhaiBaoYTe_BusinessLayer.pdb
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\bin\Debug\KhaiBaoYTe_DataLayer.dll
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\bin\Debug\KhaiBaoYTe_Entities.dll
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\bin\Debug\KhaiBaoYTe_DataLayer.pdb
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\bin\Debug\KhaiBaoYTe_Entities.pdb
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\obj\Debug\KhaiBaoYTe_BusinessLayer.csprojAssemblyReference.cache
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\obj\Debug\KhaiBaoYTe_BusinessLayer.csproj.CoreCompileInputs.cache
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\obj\Debug\KhaiBaoYTe_BusinessLayer.csproj.CopyComplete
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\obj\Debug\KhaiBaoYTe_BusinessLayer.dll
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_BusinessLayer\obj\Debug\KhaiBaoYTe_BusinessLayer.pdb

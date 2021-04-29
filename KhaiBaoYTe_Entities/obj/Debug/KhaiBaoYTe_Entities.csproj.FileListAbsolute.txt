@@ -1,0 +1,6 @@
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_Entities\bin\Debug\KhaiBaoYTe_Entities.dll
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_Entities\bin\Debug\KhaiBaoYTe_Entities.pdb
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_Entities\obj\Debug\KhaiBaoYTe_Entities.csprojAssemblyReference.cache
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_Entities\obj\Debug\KhaiBaoYTe_Entities.csproj.CoreCompileInputs.cache
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_Entities\obj\Debug\KhaiBaoYTe_Entities.dll
+E:\VLUTE\Thuc_Tap_VNPT\API_KhaiBaoYTe\KhaiBaoYTe_Entities\obj\Debug\KhaiBaoYTe_Entities.pdb

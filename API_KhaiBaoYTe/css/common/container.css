@@ -1,0 +1,29 @@
+﻿.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 100wh;
+}
+
+
+/*content*/
+.content {
+    width: calc(100% - 300px);
+    height: calc(100% - 16px);
+    padding: 15px;
+    margin: 10px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
+}
+    .content .content-header {
+        height: 40px;
+    }
+
+    .content .content-body {
+        height: calc(100% - 40px);
+    }
+
+
+

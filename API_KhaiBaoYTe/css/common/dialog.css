@@ -1,0 +1,112 @@
+﻿.form-dialog {
+    position: absolute;
+}
+
+.dialog-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #000000;
+    opacity: .4;
+}
+
+
+.dialog {
+    position: fixed;
+    width: 700px;
+    background-color: #ffffff;
+    top: calc(50% - 200px);
+    left: calc(50% - 300px);
+    border-radius: 5px;
+    border: 5px solid #1949B5;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+}
+    .dialog .label-col-2 {
+        margin-left: 8px;
+        width: 100px;
+    }
+
+    .dialog input {
+        width: 500px;
+    }
+
+    .dialog .dialog-titlebar {
+        color: #ffffff;
+        width: 100%;
+        background-color: #1949B5;
+        height: 30px;
+        /* border-top-left-radius: 4px;
+        border-top-right-radius: 4px;*/
+    }
+
+        .dialog .dialog-titlebar .title {
+            float: left;
+            line-height: 17px;
+            padding-left: 4px;
+        }
+
+        .dialog .dialog-titlebar .btn-close {
+            position: absolute;
+            top: 1px;
+            right: 3px;
+            text-align: center;
+            width: 16px;
+            height: 16px;
+            float: right;
+            line-height: 13px;
+            font-weight: 500;
+            border-radius: 50%;
+            background-color: #ffffff;
+            color: #0072bc;
+            cursor: pointer;
+        }
+
+    .dialog .dialog-body {
+        padding: 8px;
+    }
+
+select, option {
+    min-width: 200px;
+    text-align-last: center;
+    height: 35px;
+    margin-left: 39px;
+    font-size: 18px !important;
+    border-radius: 4px;
+}
+.dialog-body label {
+    display: inline-block;
+    width: 135px;
+}
+.dialog-body .row {
+    margin: 4px 0;
+    display: flex;
+    align-items: center;
+}
+
+.dialog-footer {
+    position: relative;
+    display: flex;
+    min-height: 30px;
+    margin-top: 12px;
+}
+
+    .dialog-footer .footer-right {
+        position: absolute;
+        display: flex;
+        right: 0;
+        bottom: 0;
+    }
+
+    .dialog-footer .footer-left {
+        position: absolute;
+        height: 100%;
+        display: flex;
+        left: 0;
+    }
+
+.group-left .row input {
+    height: 35px;
+    font-size: 18px; 
+}
